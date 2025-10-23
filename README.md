@@ -27,14 +27,19 @@ In timing diagram Q0 is changing as soon as the negative edge of clock pulse is 
 /* write all the steps invloved */
 
 **PROGRAM**
+<img width="217" height="212" alt="Screenshot 2025-10-23 221423" src="https://github.com/user-attachments/assets/3e125b96-653d-4aa1-8c86-9082d82f1026" />
 
 /* Program for 4 Bit Ripple Counter and verify its truth table in quartus using Verilog programming.
 
- Developed by: RegisterNumber:
-*/
+ Developed by:ABDUL RAHMAN A R
+ RegisterNumber:
+*/25008775
 
-**RTL LOGIC FOR 4 Bit Ripple Counter**
+**RTL LOGIC FOR 4 Bit Ripple Counter**<img width="483" height="173" alt="Screenshot 2025-10-23 221435" src="https://github.com/user-attachments/assets/f899b83a-342f-4fbe-ab4c-9c0d30b8337d" />
 
-**TIMING DIGRAMS FOR 4 Bit Ripple Counter**
+<img width="429" height="223" alt="Screenshot 2025-10-23 221516" src="https://github.com/user-attachments/assets/3a44a7d7-02fa-4e14-ae59-0c20283a94da" />
 
-**RESULTS**
+**TIMING DIGRAMS FOR 4 Bit Ripple Counter**<img width="765" height="85" alt="Screenshot 2025-10-23 221501" src="https://github.com/user-attachments/assets/1b8ba4ab-5dfd-4650-af86-808ede8566a3" />
+
+
+**RESULTS**implement 4 bit synchronous up counter and validate functionality
